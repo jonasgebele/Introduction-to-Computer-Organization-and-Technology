@@ -1,0 +1,11 @@
+ADD DX, AX
+ADD DX, BX
+ADD DX, CX
+ADD DX, 50
+
+; oder
+
+MOV DX, 50
+ADD DX, AX
+ADD DX, BX
+ADD DX, CX
